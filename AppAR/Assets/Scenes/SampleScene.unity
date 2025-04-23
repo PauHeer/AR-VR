@@ -1718,6 +1718,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items:
   - {fileID: 11400000, guid: 17d9b8a7d3830ed42b153ffe5c41ba69, type: 2}
+  - {fileID: 11400000, guid: e87cdc2533330524683361adb8f5dd2d, type: 2}
+  - {fileID: 11400000, guid: c3e82322165a98b45b6579bced3ca3b4, type: 2}
+  - {fileID: 11400000, guid: cbd73d2934e13e04aa835162a89c900a, type: 2}
+  - {fileID: 11400000, guid: 3f8e77ed6d2814143afc0426d64aa970, type: 2}
   buttonContainer: {fileID: 1754659692}
   itemButtonManager: {fileID: 7364646913643574116, guid: 6d156bf5eda2eb44da43e67031757bcc, type: 3}
 --- !u!4 &1256525021
@@ -2169,7 +2173,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -2157721, y: 0}
+  m_AnchoredPosition: {x: -4534647, y: 0}
   m_SizeDelta: {x: 0, y: 440}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1754659694
